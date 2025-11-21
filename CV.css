@@ -251,7 +251,7 @@ nav p{
 
 .education span3 {
   position: absolute;
-  top: 392px;
+  top: 53%;
   left: 79%;
   font-family: 'Inter', sans-serif;
   font-size: 1.5em; 
@@ -264,7 +264,7 @@ nav p{
 
 .education span4 {
   position: absolute;
-  top: 472px;
+  top: 64%;
   left: 79%;
   font-family: 'Inter', sans-serif;
   font-size: 1.5em; 
