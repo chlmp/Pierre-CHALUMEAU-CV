@@ -401,7 +401,7 @@ nav p{
   color: #000000; 
   text-align: justify; 
   margin: 15px; 
-  letter-spacing: 2px;
+  letter-spacing: 0px;
   margin-left: 30px;
   font-weight: bold;
   text-decoration: underline;
