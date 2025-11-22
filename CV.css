@@ -7,7 +7,7 @@ scroll-padding-top: 0px;
   body {
     font-size: 200%;
   }
-  .ma-colonne {
+  body {
     width: 50%;
     height: 50%;
   }
